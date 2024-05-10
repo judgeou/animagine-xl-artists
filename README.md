@@ -17,3 +17,5 @@ Steps: 20, Sampler: Euler a, CFG scale: 5, Seed: 2055943952, Size: 1024x1576, Mo
 ![image](imgs/xyz_grid-0030-2055943952.jpg)
 ![image](imgs/xyz_grid-0031-2055943952.jpg)
 ![image](imgs/xyz_grid-0032-2055943952.jpg)
+![image](imgs/xyz_grid-0035-2055943952.jpg)
+![image](imgs/xyz_grid-0036-2055943952.jpg)
